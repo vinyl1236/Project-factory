@@ -1,4 +1,4 @@
-# Project Factory
+# Project-factory
 
 Java practice projects and small console applications.
 
@@ -6,8 +6,8 @@ Java practice projects and small console applications.
 
 ```text
 src/
-├── BankApp/   Bank account console application
-└── test1/     Java OOP practice projects
+|-- BankApp/   Bank account console application
+`-- test1/     Java OOP practice projects
 ```
 
 ## Run BankApp
