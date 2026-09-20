@@ -1,0 +1,13 @@
+# Java build output
+out/
+bin/
+build/
+target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Local runtime data
+account.txt
